@@ -33,7 +33,7 @@ A Machine Learning web application that predicts whether a student will get plac
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/AfreenShehanaaz/Campus-Placement-Prediction-For-Students.git]
+git clone https://github.com/AfreenShehanaaz/Campus-Placement-Prediction-For-Students.git
 cd Placement-Predictor
 ```
 
