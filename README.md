@@ -72,6 +72,7 @@ placement-predictor/
 │   ├── 04_feature_engineering.ipynb
 │   └── 05_machine_learning.ipynb
 ├── models/                   ← Saved ML model
+├── powerbi/                  ← Power BI dashboard (.pbix + screenshot)
 ├── app/                      ← Streamlit web app
 │   └── app.py
 ├── requirements.txt
