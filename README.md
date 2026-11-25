@@ -5,6 +5,12 @@ A Machine Learning web application that predicts whether a student will get plac
 ## App Screenshot
 ![App Screenshot](reports/figures/app_screenshot.png)
 
+## Power BI Dashboard
+
+Interactive dashboard analyzing placement drivers across 215 students: placement rate, work experience, degree type, and salary. Built with KPI cards, DAX measures, and a slicer.
+
+![Placement Dashboard](powerbi/Placement_Dashboard.png)
+
 ## Technologies Used
 - Python
 - Pandas & NumPy
@@ -33,8 +39,8 @@ A Machine Learning web application that predicts whether a student will get plac
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SumeetMandal2004/Placement-Predictor.git
-cd Placement-Predictor
+git clone https://github.com/AfreenShehanaaz/Campus-Placement-Prediction-For-Students.git
+cd Campus-Placement-Prediction-For-Students
 ```
 
 ### 2. Create virtual environment
@@ -73,5 +79,5 @@ placement-predictor/
 ```
 
 ## Author
-**Sumeet Mandal**
-- GitHub: [@SumeetMandal2004](https://github.com/SumeetMandal2004)
+**Afreen Shehanaaz Shaik**
+- GitHub: [@AfreenShehanaaz](https://github.com/AfreenShehanaaz)
